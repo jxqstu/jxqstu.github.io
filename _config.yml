@@ -3,7 +3,7 @@ title: doom
 email: jxqstu@gmail.com
 description:  doom
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://jxqstu.github.com" # the base hostname & protocol for your site
+url: "http://jxqstu.github.io" # the base hostname & protocol for your site
 
 
 # Sidebar filter
