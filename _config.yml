@@ -1,0 +1,37 @@
+# Site settings
+title: doom
+email: jxqstu@gmail.com
+description:  doom
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://jxqstu.github.com" # the base hostname & protocol for your site
+
+
+# Sidebar filter
+# Choose 'tag' or 'category' as filter in sidebar.
+filter: 'category'
+
+
+# Social account
+#twitter:  
+# weibo:    ID
+github:   jxqstu
+# codepen:  username
+# dribbble: username
+
+
+# Comment
+disqus_shortname: jxqstu
+
+
+# Google Analytics
+google_analytics: 
+
+
+# Build settings
+#markdown: redcarpet
+markdown: kramdown
+#kramdown: redcarpet
+sass:
+  style: compressed
+gems:
+  - jekyll-sitemap

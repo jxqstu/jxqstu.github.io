@@ -1,0 +1,7 @@
+---
+layout: post
+title: "欢迎来到我的Blog"
+date: 2015-04-28 00:08:09
+categories:  Ruby
+---
+欢迎来到我的Blog
