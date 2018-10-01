@@ -1,0 +1,10 @@
+---
+layout: post
+title: "tools"
+date: 2018-10-01 08:59:59
+categories: tool 
+---
+
+## code color scheme
+> solarized
+- https://ethanschoonover.com/solarized/
